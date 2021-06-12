@@ -113,3 +113,6 @@ project-root
   # vercel
   .vercel
   ```
+## typescript対応
+1. npm install --save-dev @types/react
+2. npx tsc --init
